@@ -1,7 +1,9 @@
 # downloader
-download file with python
-You can stop downloading the file and do the rest of the file download later
-python 3.x
+<p>
+download file with python<br/>
+You can stop downloading the file and do the rest of the file download later<br/>
+python 3.x<br/>
+</p>
 
 ## Run downloader
 
